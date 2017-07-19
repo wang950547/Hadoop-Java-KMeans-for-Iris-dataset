@@ -7,7 +7,7 @@ You can excute with command :
 hadoop jar KMeansForIris.jar KMeansForIris {iris dataset path} kmeans {k clusters} {threshold}  
 
 Threshold :
-It will stop clustering when the distance between with Every centroids' new position and last position is smaller than threshold value. 
+It will stop clustering when the distance between every centroids' new position and last position is smaller than threshold value. 
 
 Experimental Result:
 Iteration: 4 times
